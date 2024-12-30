@@ -44,6 +44,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
   @override
   Widget build(BuildContext context) {
+    print('Chama o build');
     return DefaultTabController(
       length: 3,
       child: Scaffold(
@@ -70,6 +71,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
   Widget buildListView(String category) {
     final items = carData[category]!;
+    print('Constroi $category');
     return ListView.builder(
       itemCount: items.length,
       itemBuilder: (context, index) {
@@ -77,13 +79,12 @@ class _HomeScreenState extends State<HomeScreen> {
         return Card(
           margin: EdgeInsets.all(10),
           child: ListTile(
-            leading: Image.network(
+            title: Image.network(
               item["image"]!,
-              width: 50,
-              height: 50,
-              fit: BoxFit.cover,
+              height: 300,
+              fit: BoxFit.fitHeight,
             ),
-            title: Text(item["title"]!),
+            subtitle: Text(item["title"]!),
           ),
         );
       },
