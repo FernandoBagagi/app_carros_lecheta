@@ -33,11 +33,11 @@ class _HomeScreenState extends State<HomeScreen> {
     "Esportivos": [
       {
         "title": "Ferrari F8",
-        "image": "https://quatrorodas.abril.com.br/wp-content/uploads/2024/02/FiatMobiLikeMY245.jpg"
+        "image": "https://s2-autoesporte.glbimg.com/PJVx-woD-SAuruWKPoO1KvmeTfg=/0x0:620x413/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/8/g/Sux9niQ3AYKbeLGaHiAg/2019-02-28-ferrari-f8-tributo-2020-1600-01.jpg"
       },
       {
         "title": "Lamborghini Huracan",
-        "image": "https://quatrorodas.abril.com.br/wp-content/uploads/2024/02/FiatMobiLikeMY245.jpg"
+        "image": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_gw/huracan/2023/09_18_refresh/s/gw_hura_s_02_m.jpg"
       },
     ],
   };
