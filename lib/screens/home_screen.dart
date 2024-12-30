@@ -13,11 +13,11 @@ class _HomeScreenState extends State<HomeScreen> {
     "Clássicos": [
       {
         "title": "Chevrolet Bel Air",
-        "image": "https://quatrorodas.abril.com.br/wp-content/uploads/2024/02/FiatMobiLikeMY245.jpg"
+        "image": "https://lartbr.com.br/wp-content/uploads/2024/01/IMG_8557.jpg"
       },
       {
         "title": "Ford Mustang 1967",
-        "image": "https://quatrorodas.abril.com.br/wp-content/uploads/2024/02/FiatMobiLikeMY245.jpg"
+        "image": "https://thegarage.com.br/wp-content/uploads/2018/03/IMG_9791.jpg"
       },
     ],
     "Luxo": [
