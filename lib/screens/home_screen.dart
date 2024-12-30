@@ -23,11 +23,11 @@ class _HomeScreenState extends State<HomeScreen> {
     "Luxo": [
       {
         "title": "Rolls Royce Phantom",
-        "image": "https://quatrorodas.abril.com.br/wp-content/uploads/2024/02/FiatMobiLikeMY245.jpg"
+        "image": "https://www.agoramotors.com.br/wp-content/uploads/2024/11/rolls-royce-phantom-2025-na-diagonal-preto.jpg"
       },
       {
         "title": "Bentley Continental",
-        "image": "https://quatrorodas.abril.com.br/wp-content/uploads/2024/02/FiatMobiLikeMY245.jpg"
+        "image": "https://soveiculos.com.br/wp-content/uploads/2024/06/Bentley-Continental-2025.jpg"
       },
     ],
     "Esportivos": [
